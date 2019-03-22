@@ -66,9 +66,9 @@ DNAlytics – Offices : CEI2 – Rue Louis de Geer 6, 1348 Louvain-la-Neuve, Bel
 
 # Software
 
-- jForest (https://github.com/jeromepaul/jForest) is a generic implementation of tree ensemble methods.
+- [jForest](https://github.com/jeromepaul/jForest) is a generic implementation of tree ensemble methods.
   It is designed to be very modular and enables easy tuning of the tree induction process, classification criterion and feature importance index.
   It is developed in Java and bundled in the form of a R package. jForest implements our statistically interpretable feature importance index (see publications).
-- HRS2C2 (http://hrs2c2.com/), an online calculator for the Hemorrhagic Risk Scoring System in Cirrhotic Children.
-- REED (http://reed.dnalytics.com/): Rapid & Easy Evaluation of Datasets
+- [HRS2C2](http://hrs2c2.com/), an online calculator for the Hemorrhagic Risk Scoring System in Cirrhotic Children.
+- [REED](http://reed.dnalytics.com/): Rapid & Easy Evaluation of Datasets
 
