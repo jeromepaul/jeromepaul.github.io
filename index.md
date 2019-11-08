@@ -13,10 +13,19 @@ DNAlytics – Offices : CEI2 – Rue Louis de Geer 6, 1348 Louvain-la-Neuve, Bel
 # Publications
 
 - 2019
+    - Olesen, T., Paul, J., Gramme, P., Drake, M., van de Walle, J., & Everaert, K.,
+      [Determining the most impactful predictors of nocturia by a multivariate analysis.](https://www.ics.org/2019/abstract/34)
+      ICS 2019
+    - Paul J, Gramme P, Helleputte T.
+      [THU0035 Dominance of drug target mechanisms in rheumatoid arthritis.](http://dx.doi.org/10.1136/annrheumdis-2019-eular.3115)
+      Annals of the Rheumatic Diseases 2019;78:284-285.
     - N Bonnet, J Paul, T Helleputte, et al.
       [Novel insights into the assessment of risk of upper gastrointestinal bleeding in decompensated cirrhotic children](https://doi.org/10.1111/petr.13390).
       Pediatr Transplant. 2019;e13390, (online: DOI:10.1111/petr.13390)
 - 2018
+    - Paul, J., Gramme, P. et al.
+      [Baseline clinical parameters insufficient to predict 5-year osteoarthritis incidence in check cohort.](https://doi.org/10.1016/j.joca.2018.02.460)
+      Osteoarthritis and Cartilage, Volume 26, S219
     - Bert Dhondt, Elise De Bleser, Tom Claeys, Sarah Buelens, Nicolaas Lumen, Jo Vandesompele, Anneleen Beckers, Valerie Fonteyne, Kim Van der Eecken, Aurélie De Bruycker, Jérôme Paul, Pierre Gramme, Piet Ost,
       [Discovery and validation of a serum microRNA signature to characterize oligo- and polymetastatic prostate cancer: not ready for prime time](https://doi.org/10.1007/s00345-018-2609-8),
       World Journal of Urology, 2018, (online, : DOI:10.1007/s00345-018-2609-8)
@@ -71,4 +80,5 @@ DNAlytics – Offices : CEI2 – Rue Louis de Geer 6, 1348 Louvain-la-Neuve, Bel
   It is developed in Java and bundled in the form of a R package. jForest implements our statistically interpretable feature importance index (see publications).
 - [HRS2C2](http://hrs2c2.com/), an online calculator for the Hemorrhagic Risk Scoring System in Cirrhotic Children.
 - [REED](http://reed.dnalytics.com/): Rapid & Easy Evaluation of Datasets
+- [LiblineaR](https://cran.r-project.org/package=LiblineaR): R wrapper around Liblinear library for fast SVM learning.
 
