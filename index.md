@@ -13,6 +13,9 @@ DNAlytics – Offices : CEI2 – Rue Louis de Geer 6, 1348 Louvain-la-Neuve, Bel
 # Publications
 
 - 2019
+    - Dhondt, B., De Bleser, E., Claeys, T., Buelens, S., Lumen, N., Vandesompele, J., Beckers, A., Fonteyne, V., Van der Eecken, K., De Bruycker, A., Paul, J., Gramme, P., Ost, P. 
+      [Discovery and validation of a serum microRNA signature to characterize oligo- and polymetastatic prostate cancer: not ready for prime time.](https://doi.org/10.1007/s00345-018-2609-8)
+      World J Urol 37, 2557–2564 (2019).
     - Olesen, T., Paul, J., Gramme, P., Drake, M., van de Walle, J., & Everaert, K.,
       [Determining the most impactful predictors of nocturia by a multivariate analysis.](https://www.ics.org/2019/abstract/34)
       ICS 2019
