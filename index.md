@@ -11,7 +11,10 @@ jerome DOT paul AT dnalytics.com
 DNAlytics – Offices : CEI2 – Rue Louis de Geer 6, 1348 Louvain-la-Neuve, Belgium
 
 # Publications
-
+- 2020
+    - Olesen, T.; Paul, J.; Gramme, P.; Drake, M.J.; Vandewalle, J.; Everaert, K.,
+      [Assessment of the Most Impactful Combination of Factors Associated with Nocturia and to Define Nocturnal Polyuria by Multivariate Modelling.](https://www.mdpi.com/771000)
+      J. Clin. Med. 2020, 9, 2262. 
 - 2019
     - Dhondt, B., De Bleser, E., Claeys, T., Buelens, S., Lumen, N., Vandesompele, J., Beckers, A., Fonteyne, V., Van der Eecken, K., De Bruycker, A., Paul, J., Gramme, P., Ost, P. 
       [Discovery and validation of a serum microRNA signature to characterize oligo- and polymetastatic prostate cancer: not ready for prime time.](https://doi.org/10.1007/s00345-018-2609-8)
