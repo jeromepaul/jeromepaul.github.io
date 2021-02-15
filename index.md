@@ -84,7 +84,10 @@ DNAlytics – Offices : CEI2 – Rue Louis de Geer 6, 1348 Louvain-la-Neuve, Bel
 - [jForest](https://github.com/jeromepaul/jForest) is a generic implementation of tree ensemble methods.
   It is designed to be very modular and enables easy tuning of the tree induction process, classification criterion and feature importance index.
   It is developed in Java and bundled in the form of a R package. jForest implements our statistically interpretable feature importance index (see publications).
-- [HRS2C2](http://hrs2c2.com/), an online calculator for the Hemorrhagic Risk Scoring System in Cirrhotic Children.
+- Jérôme Paul, Xavier Stephenne, Thibault Helleputte,
+  [HRS2C2, an online calculator for the Hemorrhagic Risk Scoring System in Cirrhotic Children](http://www.hrs2c2.com), 2015.
 - [REED](http://reed.dnalytics.com/): Rapid & Easy Evaluation of Datasets
 - [LiblineaR](https://cran.r-project.org/package=LiblineaR): R wrapper around Liblinear library for fast SVM learning.
+- Bastin M(3), Olesen TK(1), Denys MA(2), Goessaert AS(1), Bruneel E(1), Decalf V(1), Helleputte T(3),Paul J(3), Gramme P(3), Everaert K(2)
+  [Online multivariate prediction model for nocturia, based on urinary tract etiologies](http://www.nocturia.dnalytics.com), 2018.
 
