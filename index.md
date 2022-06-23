@@ -1,14 +1,14 @@
-# Analyst at DNAlytics
+# Data Mining & Statistical Research Scientist at Cognivia
 
 Hello,
 
-I work as an analyst at [DNAlytics](https://dnalytics.com), a very dynamic Belgian company that covers the whole development of data-driven personalised medicine solutions, from R&D to market access. My background is in Machine Learning and data analysis.
+I work as a Data Mining & Statistical Research Scientist at [Cognivia](https://cognivia.com).
+My background is in Machine Learning and data analysis.
 
 I received a PhD in June 2015. The goal of my thesis is to improve the interpretability of predictive models built on very high dimensional data. It particularly focuses on heterogeneous biomedical data that contain different types of variables. Selecting a few variables that allow us to predict some clinical outcome greatly helps medical doctors to understand the studied biological process better.
 
 Jérôme  
-jerome DOT paul AT dnalytics.com  
-DNAlytics – Offices : CEI2 – Rue Louis de Geer 6, 1348 Louvain-la-Neuve, Belgium
+jerome DOT paul AT cognivia.com
 
 # Publications
 - 2020
@@ -90,4 +90,3 @@ DNAlytics – Offices : CEI2 – Rue Louis de Geer 6, 1348 Louvain-la-Neuve, Bel
 - [LiblineaR](https://cran.r-project.org/package=LiblineaR): R wrapper around Liblinear library for fast SVM learning.
 - Bastin M, Olesen TK, Denys MA, Goessaert AS, Bruneel E, Decalf V, Helleputte T,Paul J, Gramme P, Everaert K,
   [Online multivariate prediction model for nocturia, based on urinary tract etiologies](http://www.nocturia.dnalytics.com), 2018.
-
